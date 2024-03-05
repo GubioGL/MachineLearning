@@ -1,4 +1,4 @@
-#  Welcome to my codenotes for classical machine learning or ML!
+#  Welcome to my codenotes for classical machine learning!
 
 
 Esse repositório é dedicado a minha trajetória na área de Machine Learning Clássico.
