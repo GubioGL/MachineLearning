@@ -1,12 +1,12 @@
-#  Welcome to my codenotes for classical machine learning!
+#  Welcome to my codenotes for machine learning!
 
+This repository is dedicated to my trajectory in the area of Classical Machine Learning.
 
-Esse repositório é dedicado a minha trajetória na área de Machine Learning Clássico.
-* #1 - Partindo da análise de dados(Curso da IBM ).
+* #1 - Starting from data analysis (IBM course).
 > Link : https://www.coursera.org/learn/data-analysis-with-python
 
-* #2 -  Passando por um estudo básico e geral de ML(curso da IBM).
+* #2 - Going through a basic and general study of ML (IBM course).
 > Link : https://www.coursera.org/learn/machine-learning-with-python
 
-* #3 - E por fim, se aprofundando em rede neural por um "Lecture Series" dado pelo Prof. Dr. Florian Marquardt.
+* #3 - And finally, delving deeper into neural networks through a "Lecture Series" given by Prof. Dr. Florian Marquardt.
 > Link :https://pad.gwdg.de/s/Machine_Learning_For_Physicists_2021
