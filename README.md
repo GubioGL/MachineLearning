@@ -19,7 +19,7 @@ I like studying online, I think it helps a lot when you need guidance in your st
   - creating data pipelines.
 
   > Link: [IBM course](https://www.coursera.org/learn/data-analysis-with-python)
-* #2 - [Going through a basic and general study of ML](https://github.com/GubioGL/Phd_ML/blob/main/%232/%232.html) .
+* #2 - [Going through a basic and general study of ML](https://gubiogl.github.io/Phd_ML/2.html) .
 
   This course will begin with a brief introduction to Machine Learning and what it is, with topics such as supervised and unsupervised learning, linear and nonlinear regression, simple regression, and more.
   
