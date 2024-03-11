@@ -18,13 +18,13 @@ I like studying online, I think it helps a lot when you need guidance in your st
   - model refinement
   - creating data pipelines.
 
-  You will learn how to import data from multiple sources, clean and organize data, perform exploratory data analysis (EDA), and create meaningful data visualizations.
-  You will then predict future trends from the data, developing linear, multiple, and polynomial regression models and pipelines, and learn how to evaluate them.
+* #2 - Going through a basic and general study of ML ([IBM course](https://www.coursera.org/learn/machine-learning-with-python)).
 
-
-
-* #2 - Going through a basic and general study of ML (IBM course).
-> Link : https://www.coursera.org/learn/machine-learning-with-python
+  This course will begin with a brief introduction to Machine Learning and what it is, with topics such as supervised and unsupervised learning, linear and nonlinear regression, simple regression, and more.
+  
+  You will then dive into classification techniques using different classification algorithms such as K-Nearest Neighbors (KNN), decision trees, and logistic regression. You will also learn about the importance and different types of clustering such as k-means, hierarchical clustering and DBSCAN.
+  
+  With all the many concepts you will learn, great emphasis will be placed on hands-on learning. You will work with Python libraries, such as SciPy and scikit-learn, and apply your knowledge in laboratories.
 
 * #3 - And finally, delving deeper into neural networks through a "Lecture Series" given by Prof. Dr. Florian Marquardt.
 > Link :https://pad.gwdg.de/s/Machine_Learning_For_Physicists_2021
